@@ -77,3 +77,25 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+<!-- React Native Project For me  -->
+
+Step 1 Open react Native offical Website And all Follow steps 
+A: Donwload Choclaty version
+B: Download Android Studio
+C: Set Enviroment Variable (Open window and search enviroment and click enviroment add envirmoment and edit path and add path form react-natve office website)
+D: Download Flatform in andorid  like Andorid SDK
+E: Connect physical device or vertual device as you choice
+E:1 Physical device :Step 1 connect USB android device and go to mobile setting and active developer option and next go to developer option and enable USB and next tick RWK USB debuggin and now check android studio and go Virtual device manager and check you device here and active status 
+E:2 virtual device Open  andtoid studio and go to vertiual device and download device you want and then device is downloaded then start device and now see emulator in your window screen
+C: Create Project Command : npx react-native init projectname
+E: Start Project command : npx react-native run android
+F Now project is start 
+
+Some import Properties in css for mobile
+ #Flex 
+ Flex direction
+ Flexwrap
+
